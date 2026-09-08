@@ -1,0 +1,19 @@
+# Executables
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Build folders
+build/
+bin/
+Debug/
+Release/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Temporary/log files
+*.log
